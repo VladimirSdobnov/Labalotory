@@ -1,0 +1,46 @@
+﻿  Labal.c
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(42,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(43,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(51,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(52,45): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(52,45): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(57,46): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(57,46): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(70,47): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(70,47): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(75,48): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(75,48): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(39,6): warning C4101: mass: неиспользованная локальная переменная
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(90,39): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(90,39): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(128,47): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(163,36): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char **"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(163,36): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(175,47): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(261,6): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(364,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(445,54): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(438,1): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(439,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(500,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(560,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(623,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(682,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(745,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(811,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(910,80): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(910,80): warning C4024: constract_Experement_Menu: различные типы для формального и фактического параметров 4
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(910,98): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(910,98): warning C4024: constract_Experement_Menu: различные типы для формального и фактического параметров 5
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(916,72): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(916,72): warning C4024: constract_Alg_Menu: различные типы для формального и фактического параметров 4
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(916,90): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(916,90): warning C4024: constract_Alg_Menu: различные типы для формального и фактического параметров 5
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(921,76): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(921,76): warning C4024: constract_Setting_Menu: различные типы для формального и фактического параметров 4
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(921,94): warning C4047: функция: "char **" отличается по уровням косвенного обращения от "char (*)[200]"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(921,94): warning C4024: constract_Setting_Menu: различные типы для формального и фактического параметров 5
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(857,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(894,1): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\Ктото\source\repos\Labal\labal\Labal.c(938,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  labal.vcxproj -> C:\Users\Ктото\source\repos\Labal\Debug\labal.exe
